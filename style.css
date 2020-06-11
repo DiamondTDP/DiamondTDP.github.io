@@ -26,6 +26,18 @@ body{
     font-size:60pt;
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
+.Monster{
+    display: block;
+    color:white;
+    font-size:30pt;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.Woodhaugh{
+    display: block;
+    color:white;
+    font-size:30pt;
+    font-family: "Comic Sans MS", cursive, sans-serif;    
+}
 .title2{
     display:block;
     margin-top:15px;
